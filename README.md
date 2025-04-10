@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Who I am
+### Who I am
 
-🚀 I am a software engineer with high aspirations and an entrepeneurial spirit 
+🚀 I am a software engineer with high aspirations and an entrepeneurial spirit //
 💼 I am currently working for Avalanche and HippoNotes
 🧠 Reach out to me if you need any small or large scale projects completed 
 📲 Drop me a message on linkedin or send me an email
 
-# More info
+### More info
 
 📚 I am always looking to aquire new skills and learn new things
 💻 I am currently working on internalising fundmanetal software engineering concepts
