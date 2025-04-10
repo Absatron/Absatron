@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### My mission
 
-   I am a software engineer with high aspirations and an entrepeneurial spirit  🚀<br/>
-  I am currently working for Avalanche and HippoNotes  💼  <br/>
-🧠   Reach out to me if you need any small or large scale projects completed <br/>
-📲   Drop me a message on linkedin or send me an email <br/>
+🚀  I am a software engineer with high aspirations and an entrepeneurial spirit  <br/>
+💼  I am currently working for Avalanche and HippoNotes    <br/>
+🧠  Reach out to me if you need any small or large scale projects completed <br/>
+📲  Drop me a message on linkedin or send me an email <br/>
 
 ### Always learning, Always growing
 
