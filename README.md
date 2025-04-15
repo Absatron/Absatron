@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Always learning, Always growing 📚
 
 - I am always looking to aquire new skills and learn new things <br/>
-- I am currently working on internalising fundmanetal software engineering concepts <br/>
+- I am currently working on internalising fundamental software engineering concepts <br/>
 - I have a deep interest in everything AI <br/>
 
 
